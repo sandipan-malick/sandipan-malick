@@ -4,9 +4,6 @@
 <div align="center">
 <a href="www.linkedin.com/in/sandipan-malick"><img src="https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="profile of LinkedIn with username sandipan-malick" /></a>
 <a href="mailto:malicksandipan44@gmail.com"><img src="https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="email of Sandipan i.e.   malicksandipan44@gmail.com" /></a> 
-<a href="https://www.x.com/ranjitdey_"><img src="https://img.shields.io/badge/Twitter-00A84C?style=for-the-badge&logo=x&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
-<a href="https://www.instagram.com/_ranjitdey"><img src="https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
-<a href="https://www.facebook.com/ranjitdey2004"><img src="https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
 </div>
 
 ## <p>> whoami 👋</p>
