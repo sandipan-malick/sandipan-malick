@@ -22,7 +22,7 @@ Hi, I'm <b>Sandipan</b>, a final-year Computer Science student with a passion fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,html,css,javascript,python,tailwind,react,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=git,c,html,css,javascript,nodejs,tailwind,react,bootstrap,jquery" />
   </a>
 </p>
 
